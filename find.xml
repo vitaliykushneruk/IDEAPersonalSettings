@@ -15,8 +15,8 @@
       <mask>!*.java</mask>
       <mask>*.TS</mask>
       <mask>*.html</mask>
-      <mask>*.ts</mask>
       <mask>*.java</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
