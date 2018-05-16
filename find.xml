@@ -13,10 +13,10 @@
       <mask>*.xml</mask>
       <mask>SpringDiasoftPsCaller.java</mask>
       <mask>!*.java</mask>
-      <mask>*.java</mask>
       <mask>*.TS</mask>
       <mask>*.html</mask>
       <mask>*.ts</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
