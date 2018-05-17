@@ -17,6 +17,7 @@
       <mask>*.java</mask>
       <mask>*.ts</mask>
       <mask>*.html</mask>
+      <mask>*Action*</mask>
     </recentFileMasks>
   </component>
 </application>
