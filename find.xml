@@ -7,7 +7,6 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -21,10 +20,10 @@
       <mask>*.ts</mask>
       <mask>*.html</mask>
       <mask>*Action*</mask>
-      <mask>*.java</mask>
       <mask>*dao*</mask>
       <mask>*</mask>
       <mask>*.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
