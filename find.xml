@@ -3,9 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -20,13 +22,13 @@
       <mask>*dao*</mask>
       <mask>*</mask>
       <mask>*.xml</mask>
-      <mask>*.ts</mask>
       <mask>*ts</mask>
       <mask>*java</mask>
       <mask>BarcodeCreator.java</mask>
       <mask>!*.java</mask>
       <mask>brokerageAccounts</mask>
       <mask>*.java</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
