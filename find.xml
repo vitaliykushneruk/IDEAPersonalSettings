@@ -7,7 +7,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -26,9 +26,9 @@
       <mask>BarcodeCreator.java</mask>
       <mask>!*.java</mask>
       <mask>brokerageAccounts</mask>
-      <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.ts</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
