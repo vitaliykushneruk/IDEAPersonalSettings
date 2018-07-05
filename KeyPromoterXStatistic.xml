@@ -1,12 +1,52 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Debug 'ServerFamilyDoApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'ServerFamilyDoApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'UserServiceImplTest.registerNewUser'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'UserServiceImplTest.registerNewUser'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'UserServiceImplTest.registerNewUserWithExistsUser'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'UserServiceImplTest.registerNewUserWithExistsUser'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>22</Count>
+          <Count>29</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find Usages">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'Alt+F7'</ShortCut>
+          <Description>Find Usages</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Messages">
+        <Item>
+          <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
+          <ShortCut>'Alt+0'</ShortCut>
+          <Description>Messages</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -14,6 +54,14 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'Alt+4'</ShortCut>
+          <Description>Run</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -33,6 +81,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'UserServiceImplTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'UserServiceImplTest'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'MarketFacade [clean,verify]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -49,11 +105,35 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'UserServiceImplTest.registerNewUserWithExistsUser'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'UserServiceImplTest.registerNewUserWithExistsUser'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Version Control">
+        <Item>
+          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
+          <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
+          <Description>Version Control</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
