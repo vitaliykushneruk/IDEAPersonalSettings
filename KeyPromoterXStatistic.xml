@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>132</Count>
+          <Count>140</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -86,7 +86,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
