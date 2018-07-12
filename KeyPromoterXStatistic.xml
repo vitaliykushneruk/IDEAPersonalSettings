@@ -9,6 +9,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ClientNeedUpdateServiceTest.jointBroker…cRurAccountsNewSelectedBeforeNotSelected'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'ClientNeedUpdateServiceTest.jointBroker…cRurAccountsNewSelectedBeforeNotSelected'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'DefaultMfClientMarketSettingToCtReserveRASAccountMapperTest'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -86,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>251</Count>
+          <Count>257</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -94,7 +102,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>18</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -166,7 +174,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ClientNeedUpdateServiceTest'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ClientNeedUpdateServiceTest.brokerageMoexRurAccountsCouponsEdit'">
@@ -191,6 +199,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ClientNeedUpdateServiceTest.jointBrokerageOtcUsdAccountsNoEdit'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ClientNeedUpdateServiceTest.jointBroker…cRurAccountsNewSelectedBeforeNotSelected'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ClientNeedUpdateServiceTest.jointBroker…cRurAccountsNewSelectedBeforeNotSelected'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DefaultMfClientMarketSettingToCtReserveRASAccountMapperTest'">
@@ -337,6 +353,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ClientNeedUpdateServiceTest.jointBrokerageOtcRurAccountsNewSelectedBeforeNotSelected'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ClientNeedUpdateServiceTest.jointBrokerageOtcRurAccountsNewSelectedBeforeNotSelected'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'DefaultMfClientMarketSettingToCtReserveRASAccountMapperTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -414,7 +438,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -430,7 +454,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>49</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="UnStash Changes...">
