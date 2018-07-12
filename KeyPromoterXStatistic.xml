@@ -9,6 +9,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'AutoFormClientCompareTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'AutoFormClientCompareTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'ClientNeedUpdateServiceTest'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -110,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>282</Count>
+          <Count>283</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -118,7 +126,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>21</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -183,6 +191,14 @@
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'AutoFormClientCompareTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'AutoFormClientCompareTest'</Description>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ClientNeedUpdateServiceTest'">
@@ -377,6 +393,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'AutoFormClientCompareTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'AutoFormClientCompareTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ClientNeedUpdateServiceTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -502,7 +526,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>54</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="UnStash Changes...">
