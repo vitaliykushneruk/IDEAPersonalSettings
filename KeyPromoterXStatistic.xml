@@ -174,7 +174,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ClientNeedUpdateServiceTest'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ClientNeedUpdateServiceTest.brokerageMoexRurAccountsCouponsEdit'">
@@ -182,6 +182,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ClientNeedUpdateServiceTest.brokerageMoexRurAccountsCouponsEdit'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ClientNeedUpdateServiceTest.brokerageMoexUsdAccountsCouponsEdit'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ClientNeedUpdateServiceTest.brokerageMoexUsdAccountsCouponsEdit'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
