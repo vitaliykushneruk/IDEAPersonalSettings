@@ -9,6 +9,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ClientNeedUpdateServiceTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'ClientNeedUpdateServiceTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'ClientNeedUpdateServiceTest.jointBroker…cRurAccountsNewSelectedBeforeNotSelected'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -94,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>257</Count>
+          <Count>267</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -174,7 +182,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ClientNeedUpdateServiceTest'</Description>
-          <Count>10</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ClientNeedUpdateServiceTest.brokerageMoexRurAccountsCouponsEdit'">
@@ -353,6 +361,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ClientNeedUpdateServiceTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ClientNeedUpdateServiceTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ClientNeedUpdateServiceTest.brokerageMoexUsdAccountsSelected'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -462,7 +478,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="UnStash Changes...">
