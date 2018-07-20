@@ -5,23 +5,16 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>SpringDiasoftPsCaller.java</mask>
-      <mask>!*.java</mask>
-      <mask>*.TS</mask>
-      <mask>*.ts</mask>
-      <mask>*.html</mask>
-      <mask>*Action*</mask>
-      <mask>*dao*</mask>
-      <mask>*</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.html</mask>
+    <mask>!*.java</mask>
+    <mask>*.java</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
