@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="MarketAccount" type="TypeScript" />
-      <mapping pattern="MarketSettings" type="TypeScript" />
-      <mapping ext="25" type="XML" />
-    </extensionMap>
-  </component>
-</application>
