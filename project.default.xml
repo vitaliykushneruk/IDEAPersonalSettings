@@ -1,0 +1,60 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CheckStyle-IDEA">
+        <option name="configuration">
+          <map>
+            <entry key="checkstyle-version" value="8.24" />
+            <entry key="copy-libs" value="true" />
+            <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
+            <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
+            <entry key="scan-before-checkin" value="false" />
+            <entry key="scanscope" value="JavaOnly" />
+            <entry key="suppress-errors" value="false" />
+          </map>
+        </option>
+      </component>
+      <component name="ProjectCodeStyleConfiguration">
+        <code_scheme name="Project" version="173">
+          <JetCodeStyleSettings>
+            <option name="PACKAGES_TO_USE_STAR_IMPORTS">
+              <value>
+                <package name="java.util" alias="false" withSubpackages="false" />
+                <package name="kotlinx.android.synthetic" alias="false" withSubpackages="true" />
+                <package name="io.ktor" alias="false" withSubpackages="true" />
+              </value>
+            </option>
+            <option name="PACKAGES_IMPORT_LAYOUT">
+              <value>
+                <package name="" alias="false" withSubpackages="true" />
+                <package name="java" alias="false" withSubpackages="true" />
+                <package name="javax" alias="false" withSubpackages="true" />
+                <package name="kotlin" alias="false" withSubpackages="true" />
+                <package name="" alias="true" withSubpackages="true" />
+              </value>
+            </option>
+          </JetCodeStyleSettings>
+        </code_scheme>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="ics" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

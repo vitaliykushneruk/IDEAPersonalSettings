@@ -1,0 +1,378 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.projects.epam.com:31211/microservice-bank-support-contract" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://vr.kushneruk@gerrit.vtb-dbo.projects.epam.com/a/microservice-bank-support-contract" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.projects.epam.com:31211/microservice-bank-support-contract-letter" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.projects.epam.com:31211/microservice-autosigner" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.projects.epam.com:31211/microservice-h2h-doc-processing" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="vitaliy.kushneruk" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/BondsDev/bg-whatsapp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/BondsDev/bg-provider.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/BondsDev/bg-clients.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.projects.epam.com:31211/microservice-rupayment" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ArrivalDistributionPlatform/order-management-system.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="fee1good" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.projects.epam.com:31211/microservice-h2h-1c-adapter" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.projects.epam.com:31211/microservice-h2h-bss-adapter" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.projects.epam.com:31211/dictionary" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.projects.epam.com:31211/carrent-access-control-lib" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.projects.epam.com:31211/edocument-signature" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.projects.epam.com:31211/edocument-common" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.projects.epam.com:31211/microservice-business-control" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ArrivalDistributionPlatform/scm-supplier-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mapstruct/mapstruct-examples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/developerc/mapstructexerciss6.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-petclinic/spring-petclinic-kotlin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.projects.epam.com:31211/cancel-req" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ArrivalDistributionPlatform/scm-bomcatalog-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ArrivalDistributionPlatform/scm-forecasts-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.projects.epam.com:31211/microservice-deposit" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.projects.epam.com:31211/microservice-h2h" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ArrivalDistributionPlatform/scm-supplier-purchase-orders-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.projects.epam.com:31211/fe-root-adminconsole" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/eugenp/tutorials.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.projects.epam.com:31211/microservice-import" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.projects.epam.com:31211/api-gw-whitelists" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-bank-support-contract-view" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-jwt-common" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ArrivalDistributionPlatform/scm-dtr-bridge-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/fe-bank-support-contract" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/api-gw-whitelists" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ArrivalDistributionPlatform/scm-unit-test-library.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-client" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-corporate-group" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-foreign-exchange-transaction" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-account" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-bank-support-contract-letter" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/bank-support-contract-letter" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-world-bank" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/fe-bank-support-contract-letter" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-signmodel" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/vtb-dbo-distrib-win" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-currency" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-vrko-ctr" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-branch" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-order-foreign-exchange-operation" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-h2h-swiftcorp-adapter" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-bank-support-contract" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/inperium-corp/inperium-server-starter-security.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/fe-main-page" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/inperium-corp/inperium-server-starter-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-rupayment" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/inperium-corp/inperium-server-dictionary.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/inperium-corp/inperium-server-sell.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/inperium-corp/inperium-ui-sell.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-attachment" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-doc-type" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-collection-outgoing-payment-claim" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/cancel-req" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/data-event-common" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-product-catalog" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-deposit" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lpr.jet.msk.su/rosreestr/psko-pokd/POKD-ESB.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.lpr.jet.msk.su" />
+          <option name="userName" value="vr.kushneruk" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lpr.jet.msk.su/rosreestr/psko-pokd/es-unsi-import-tool.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lpr.jet.msk.su/rosreestr/psko-pokd/PSKO_POKD-es-unsi-import-job.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.lpr.jet.msk.su:rosreestr/egrn/rr-sudis/sudisidp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-h2h-1c-adapter" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-h2h-bss-adapterrr" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://vr.kushneruk@gerrit.vtb-dbo.local:31211/microservice-h2h-bss-adapter" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lpr.jet.msk.su/rosreestr/egrn/rr-sudis/sudis-security-log-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lpr.jet.msk.su/rosreestr/egrn/rr-sudis/sudis-common.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lpr.jet.msk.su/rosreestr/egrn/rr-sudis/sudis-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lpr.jet.msk.su/rosreestr/egrn/rr-sudis/sudis-proxy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lpr.jet.msk.su/rosreestr/egrn/rr-sudis/sudis-mongo-copier.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lpr.jet.msk.su/rosreestr/egrn/rr-sudis/sudis-db.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lpr.jet.msk.su/rosreestr/egrn/rr-sudis/sudis-spsb/-/tree/release/4.2.0" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lpr.jet.msk.su/rosreestr/egrn/rr-sudis/sudis-spsb.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lpr.jet.msk.su/rosreestr/egrn/rr-sudis/sudis.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lpr.jet.msk.su/rosreestr/egrn/rr-sudis/sudisidp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lpr.jet.msk.su/rosreestr/egrn/rrm-group/rrm-ppoz.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lpr.jet.msk.su/rosreestr/egrn/vitrina/pmo-fns-adapter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="C:\Users\vital\repository" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads/Telegram Desktop" />
+  </component>
+</application>
